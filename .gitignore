@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Cursor/VS Code
+.vscode/
+.cursor/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
