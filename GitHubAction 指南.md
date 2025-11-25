@@ -1,1 +1,2 @@
-/install-github-app
+打开 Claude Code，
+输入/install-github-app

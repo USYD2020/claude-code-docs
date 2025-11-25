@@ -1,3 +1,13 @@
+# Restart Claude Code Login Token
+
 WARP:
 help me log in claude code
-https://claude.ai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fconsole.anthropic.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference&code_challenge=5q300Mry4wo3szjwybV9s0BsW5v0z7k3lJ1iPfAKC94&code_challenge_method=S256&state=YBY_6nxyOiMlfH3M122LU1nqli-bHqrA39TjNxIH8TU
+
+npm install -g ccusage
+ccusage daily
+
+claude setup-token
+
+Your OAuth token (valid for 1 year):
+
+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
