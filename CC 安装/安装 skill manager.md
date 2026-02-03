@@ -1,3 +1,4 @@
+安装
 https://github.com/KKKKhazix/Khazix-Skills
 github-to-skills - 将 GitHub 仓库自动转换为 AI skills
 skill-manager - 管理 skills 的生命周期（检查更新、列表、删除）
