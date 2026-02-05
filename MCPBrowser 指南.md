@@ -16,7 +16,4 @@ Chrome DevTools for coding agents
 如何删除已经安装的 MCP
 
 - 在 Claude Code 外面执行
-  claude mcp remove big-saltedfish-mcp-browser
-
-claude mcp remove hans-m-yin-jimeng-mcp
 claude mcp remove chrome-devtools
