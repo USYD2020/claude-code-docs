@@ -1,3 +1,4 @@
+
 豆包模型接入 Claude Code
 
 打开终端（比如 Warp ），在启动 Claude Code 前输入这几行：

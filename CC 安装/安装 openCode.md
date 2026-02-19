@@ -13,3 +13,5 @@ Install the opencode-antigravity-auth plugin and add the Antigravity model defin
 
 3. 按照这里的说明进行安装和配置  oh my opencode
 Install and configure by following the instructions here https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads/master/README.md
+
+3. 
