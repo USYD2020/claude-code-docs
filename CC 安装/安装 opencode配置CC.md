@@ -1,35 +1,5 @@
 配置opencode中的模型定义 让 Univibe 的 API 可以用 opus
 
-{
-"$schema": "https://opencode.ai/config.json",
-"provider": {
-"univibe": {
-"npm": "@ai-sdk/openai-compatible",
-"name": "UniVibe",
-"options": {
-"baseURL": "https://api.univibe.cc/openai/v1",
-"apiKey": "你的API密钥"
-},
-"models": {
-"claude-opus-4-6": {},
-"claude-sonnet-4-5-20250929": {},
-"claude-opus-4-5-20251101": {},
-"claude-haiku-4-5-20251001": {},
-"gpt-5": {},
-"gpt-5-codex": {},
-"gpt-5.1": {},
-"gpt-5.1-codex": {},
-"gpt-5.1-codex-max": {},
-"gpt-5.1-codex-mini": {},
-"gpt-5.2": {},
-"gpt-5.2-codex": {},
-"gpt-5.3-codex": {},
-"gemini-3-flash-preview": {},
-"gemini-3-pro-preview": {}
-}
-}
-}
-}
 
 我需要：
 
