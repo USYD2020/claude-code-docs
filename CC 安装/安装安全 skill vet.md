@@ -1,0 +1,1 @@
+帮我安装这个Skill：https://clawhub.ai/spclaudehome/skill-vetter
