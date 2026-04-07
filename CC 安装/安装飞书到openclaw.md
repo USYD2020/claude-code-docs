@@ -1,0 +1,1 @@
+给我安装Clawdbot plugins install @m1heng-clawd/feishu 这个命令

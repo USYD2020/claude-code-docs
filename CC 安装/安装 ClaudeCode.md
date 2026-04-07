@@ -9,7 +9,7 @@ claude-opus-4-6 (使用同一个 Univibe API)
 用户提供的 Univibe API：
 
 URL: https://api.univibe.cc/anthropic
-API Key: sk-thIinsTzZMwkbI34HMpWgWRcg7BwN2jE
+API Key:
 我需要：
 
 读取当前配置，了解模型定义的位置
