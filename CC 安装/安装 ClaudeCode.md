@@ -16,3 +16,20 @@ API Key:
 在 opencode.json 中添加 haiku-4-5-20251001 模型定义
 更新 oh-my-opencode.json，让所有 Opus 指向 Univibe 的 claude-opus-4-6
 验证配置
+
+
+welcome界面过不了，直接改下配置跳过就行
+
+在 ~/.claude.json 的 根节点 添加："hasCompletedOnboarding": true , 即可
+
+api和key配置不生效的话
+
+apiurl 和 key 直接配置到json上吧，优先级最高
+
+创建/修改 ~/.claude/settings.json 文件下env节点 （注意文件名别搞错，env节点别搞错）
+{
+"env": {
+   "ANTHROPIC_BASE_URL":"https://api.univibe.cc/anthropic",
+   "ANTHROPIC_AUTH_TOKEN":""
+}
+}
