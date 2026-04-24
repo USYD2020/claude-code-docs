@@ -33,3 +33,7 @@ apiurl 和 key 直接配置到json上吧，优先级最高
    "ANTHROPIC_AUTH_TOKEN":""
 }
 }
+
+caffeinate -s 可以让你的 Mac 保持唤醒状态
+
+caffeinate -dims  同时阻止显示器休眠 + 系统空闲休眠 + 磁盘休眠 + 系统睡眠
